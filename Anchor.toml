@@ -1,0 +1,12 @@
+[programs.localnet]
+myepicproject = "FHFeJdLnjKFy7x3G9pau9uZTWFE8ZZL4tBmCVSwQx4AC"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "/Users/oluwaseyiadelusi/.config/solana/id.json"
+
+[scripts]
+test = "node tests/myepicproject.js"
